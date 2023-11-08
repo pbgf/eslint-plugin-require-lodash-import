@@ -36,5 +36,9 @@
   "peerDependencies": {
     "eslint": ">=7"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pbgf/eslint-plugin-require-lodash-import.git"
+  }
 }
